@@ -1,0 +1,7 @@
+c:\users\sasha\source\repos\Lab4\Lab4\bin\Debug\Lab4.exe.config
+c:\users\sasha\source\repos\Lab4\Lab4\bin\Debug\Lab4.exe
+c:\users\sasha\source\repos\Lab4\Lab4\bin\Debug\Lab4.pdb
+c:\users\sasha\source\repos\Lab4\Lab4\obj\Debug\Lab4.csprojResolveAssemblyReference.cache
+c:\users\sasha\source\repos\Lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+c:\users\sasha\source\repos\Lab4\Lab4\obj\Debug\Lab4.exe
+c:\users\sasha\source\repos\Lab4\Lab4\obj\Debug\Lab4.pdb
